@@ -3,7 +3,7 @@
 
 {"descriptionCam":"Walta TV est une chaîne de télévision basée en Ethiopie qui possède également un quotidien critique, La Nouvelle Expression.","sourceCam":["https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/walta_1.m3u8 "],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMxNjA2MzJf/addis.jpg","titleCam":"WALTA TV"},
 
-{"descriptionCam":"Sidaama Media TV est une chaîne de télévision basée en Ethiopie qui possède également un quotidien critique, La Nouvelle Expression.","sourceCam":["https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/smn-tv_1.m3u"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMxNjA2MzJf/addis.jpg","titleCam":"SIDAAMA MEDIA TV"},
+{"descriptionCam":"Sidaama Media TV est une chaîne de télévision basée en Ethiopie qui possède également un quotidien critique, La Nouvelle Expression.","sourceCam":["https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/smn-tv_1.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMxNjA2MzJf/addis.jpg","titleCam":"SIDAAMA MEDIA TV"},
 
 {"descriptionCam":"Addis TV est une chaîne de télévision basée en Ethiopie qui possède également un quotidien critique, La Nouvelle Expression.","sourceCam":["https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/prime-media_1.m3u"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMxNjA2MzJf/addis.jpg","titleCam":"PRIME MEDIA TV"},
 
